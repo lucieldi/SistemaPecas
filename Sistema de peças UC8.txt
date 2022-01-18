@@ -1,0 +1,20 @@
+Sistema para cadastro de peças
+
+
+3 requisitos :
+
+verificar se a peça possui mais de 100g (se o peso a peça é maior que 100 gramas)
+           sim: pode cadastrar
+           Não: Não pode cadastrar
+
+Verificar número de peças cadastradas, e não pode mais de 10 peças
+(Verificar se o número de peças é menor que 10)
+           Menos de 10: Pode cadastrar
+           10 ou mais peças: Não podemos cadastrar
+
+Verificar o comprimento do nome da peça
+
+
+            Menos de 3 caracteres: Não podemos cadastrar
+3 ou mais caracteres : Podemos cadastrar
+        
